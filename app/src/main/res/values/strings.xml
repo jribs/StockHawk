@@ -1,0 +1,31 @@
+<resources>
+  <string name="app_name">Stock Hawk</string>
+
+  
+  
+  <string name="action_example">Example action</string>
+
+  <string name="action_settings">Settings</string>
+
+  <string name="result_notfound">No results found for that Stock Symbol</string>
+
+  <string name="list_noresults">List is empty. Ensure internet connection and add a new stock</string>
+  <string name="list_notCurrent">We\'ve lost internet connectivity. These quotes may not be current</string>
+
+
+
+  <string name="chart_noResults">Whoops! The server could not be reached. Make sure this device is connected to the internet</string>
+  <string name="chart_titleSuffix"> - 3 Month Trend</string>
+
+  <string name="cd_addStock">Add Stock</string>
+  <string name="cd_ViewStock1">View </string>
+  <string name="cd_ViewStock2"> 3 month trend</string>
+
+  <string name="action_change_units">Change Units</string>
+  <string name="symbol_search">Symbol Search</string>
+  <string name="content_test">Search for a Stock Symbol</string>
+  <string name="input_hint">FB</string>
+  <string name="input_prefill"></string>
+  <string name="widget_title">Today\'s Market</string>
+  <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+</resources>
